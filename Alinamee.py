@@ -1,6 +1,6 @@
 import telebot
  
-bot = telebot.TeleBot('1786625589:AAG7jBRLOM-ZGuetz04hRJILkrnvQ4E_Z3o');
+bot = telebot.TeleBot('');
 USERS = []
 ACCOUNTS = {}
  
